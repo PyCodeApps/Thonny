@@ -1,11 +1,10 @@
 .. image:: https://github.com/thonny/thonny/blob/master/thonny/res/Ukraine.png
 
-`Support Ukraine! <https://github.com/thonny/thonny/wiki/Support-Ukraine>`_
+`Support Ukraine! A little help makes a big difference <https://github.com/thonny/thonny/wiki/Support-Ukraine>`_
 
 ======
-Thonny
+`Thonny - IF-TECH <https://github.com/pycodeapps>`_
 ======
-
 Thonny is a Python `IDE <https://en.wikipedia.org/wiki/Integrated_development_environment>`_ meant for learning programming.
 
 
